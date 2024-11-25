@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.familylinkdestroyer'
+    namespace 'com.ph0qu3_111.familylinkdestroyer'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.familylinkdestroyer"
+        applicationId "com.ph0qu3_111.familylinkdestroyer"
         minSdk 21
         targetSdk 34
         versionCode 1
